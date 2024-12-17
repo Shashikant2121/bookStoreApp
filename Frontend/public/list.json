@@ -1,0 +1,90 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "price":0,
+        "categary": "Free",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1734075524~exp=1734079124~hmac=b39f4f7c08b01fc891a0d18a1f168106b526eed92780d38771ab658ced097983&w=740"
+    },
+    {
+        "id":2,
+        "name":"Drama Book",
+        "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "price":0,
+        "categary": "Free",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1734075524~exp=1734079124~hmac=b39f4f7c08b01fc891a0d18a1f168106b526eed92780d38771ab658ced097983&w=740"
+    },
+    {
+        "id":3,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "price":0,
+        "categary": "Free",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1734075524~exp=1734079124~hmac=b39f4f7c08b01fc891a0d18a1f168106b526eed92780d38771ab658ced097983&w=740"
+    },
+    {
+        "id":4,
+        "name":"Sport Book",
+        "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "price":50,
+        "categary": "Sports",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1734075524~exp=1734079124~hmac=b39f4f7c08b01fc891a0d18a1f168106b526eed92780d38771ab658ced097983&w=740"
+    },
+    {
+        "id":5,
+        "name":"Food Book",
+        "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "price":200,
+        "categary": "Food",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1734075524~exp=1734079124~hmac=b39f4f7c08b01fc891a0d18a1f168106b526eed92780d38771ab658ced097983&w=740"
+    },
+    {
+        "id":6,
+        "name":"Comedy Book",
+        "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "price":20,
+        "categary": "Enjoy",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1734075524~exp=1734079124~hmac=b39f4f7c08b01fc891a0d18a1f168106b526eed92780d38771ab658ced097983&w=740"
+    },
+    {
+        "id":7,
+        "name":"Poem Book",
+        "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "price":0,
+        "categary": "Free",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1734075524~exp=1734079124~hmac=b39f4f7c08b01fc891a0d18a1f168106b526eed92780d38771ab658ced097983&w=740"
+    },
+    {
+        "id":8,
+        "name":"Music Book",
+        "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "price":0,
+        "categary": "Song",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1734075524~exp=1734079124~hmac=b39f4f7c08b01fc891a0d18a1f168106b526eed92780d38771ab658ced097983&w=740"
+    },
+    {
+        "id":9,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "price":0,
+        "categary": "Free",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1734075524~exp=1734079124~hmac=b39f4f7c08b01fc891a0d18a1f168106b526eed92780d38771ab658ced097983&w=740"
+    },
+    {
+        "id":10,
+        "name":"Science Book",
+        "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "price":0,
+        "categary": "Free",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1734075524~exp=1734079124~hmac=b39f4f7c08b01fc891a0d18a1f168106b526eed92780d38771ab658ced097983&w=740"
+    },
+    {
+        "id":11,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor, sit amet consectetur adipisicing elit.",
+        "price":0,
+        "categary": "Free",
+        "image": "https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1734075524~exp=1734079124~hmac=b39f4f7c08b01fc891a0d18a1f168106b526eed92780d38771ab658ced097983&w=740"
+    }
+]
