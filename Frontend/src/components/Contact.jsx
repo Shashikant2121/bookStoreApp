@@ -1,7 +1,5 @@
 import React from 'react';
 import { useForm } from 'react-hook-form'; // Import useForm
-import list from "../../public/list.json";
-import Card from './Card';
 import { Link } from 'react-router-dom';
 
 function Contact() {
